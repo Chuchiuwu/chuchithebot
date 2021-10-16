@@ -1,0 +1,12 @@
+{
+  "name": "chuchithebot",
+  "version": "0.0.0",
+  "description": "",
+  "main": "chuchi.js",
+  "scripts": {
+  "start": "node chuchi.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1"
+  }
+}
