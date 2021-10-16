@@ -4,7 +4,7 @@
   "description": "",
   "main": "chuchi.js",
   "scripts": {
-  "start": "node chuchi.js"
+  "start": "nodechuchi.js"
   },
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1"
