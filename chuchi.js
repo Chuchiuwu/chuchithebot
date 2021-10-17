@@ -23,4 +23,3 @@ async function iniciar () {
         }
 
 iniciar ()
-.catch (err => console.log("unexpected error: " + err))
